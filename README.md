@@ -1,0 +1,1 @@
+This is my second task at PRODIGY . In this task i have created a stopwatch which is initially set to zero.The start, pause, reset and lap are functionalities are cleanly separated .The stopwatch runs using a simpler timing mechanisms and avoid complexity.
